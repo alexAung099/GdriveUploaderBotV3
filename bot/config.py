@@ -3,7 +3,7 @@ class config:
 "
     APP_ID = "7730667"
     API_HASH = "f954afc61dcd16e868d8a34f29530c2f"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgresql://postgres:uOtUrDGYAesH3XxBc2at@containers-us-west-10.railway.app:5500/railway"
     SUDO_USERS = "-1001444327029 1901082406 1155330352" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "797562222678-m1f6peohbb3ql5g6h5jkahtbn54kqf4g.apps.googleusercontent.com"
